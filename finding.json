@@ -1,0 +1,8 @@
+{
+"scan_type": ["Static Analysis", "Dynamic Analysis", "Manual Analysis", "SCA"],
+"policy_sandbox": "Policy",
+"status": "open",
+"report_type": "findings",
+"last_updated_start_date": "2021-01-29 13:30:10",
+"last_updated_end_date": "2021-06-13 13:30:10"
+}
